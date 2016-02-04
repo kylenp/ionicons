@@ -1,6 +1,6 @@
 ## Ionicons - 为设计而生
 
-Ionicons - 专为 [Ionic Framework](http://ionicframework.com/) 设计的图标字体库
+专为 [Ionic Framework](http://ionicframework.com/) 设计的图标字体库
 
 
 ## 许可协议
