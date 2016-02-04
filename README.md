@@ -9,7 +9,9 @@
 
 例如，搜索 “arrow” 关键词会显示返回按钮、箭头指示等图标，点击对应的图标可以快速复制图标样式，将它 复制/粘贴 到你的代码中即可！
 
-虽然 Ionicons 是专为 [Ionic Framework](http://ionicframework.online/) 设计，但并不仅限于 Ionic 应用。你可以在任何场合及项目中使用它们，我们已经将项目开源并使用 [MIT](http://opensource.org/licenses/MIT) 授权许可协议。
+虽然 Ionicons 是专为 [Ionic Framework](http://ionicframework.online/) 设计，但并不仅限于在 Ionic 项目中才能使用。相反，你可以在任何场合及项目中使用它们，你只需要在项目中引用图标字体库样式，就这么简单！
+
+现在，我们已经将项目开源并使用 [MIT](http://opensource.org/licenses/MIT) 授权许可协议。
 
 
 ## 开始使用
@@ -60,5 +62,6 @@ This repo already comes with all the files built and ready to go, but can also b
 ## 许可协议
 
 使用 [MIT](http://opensource.org/licenses/MIT) 授权许可协议
+
 
 
