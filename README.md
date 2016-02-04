@@ -40,7 +40,7 @@
 
 ## 如何自定义图标字体？
 
-This repo already comes with all the files built and ready to go, but can also build the fonts from the source. Requires Python, FontForge and Sass:
+如果这些图标字体仍不能满足你的开发需求，你可以使用 Python、FontForge 和 Sass 重新编译并生成新的图标字体库：
 
 1) 安装 FontForge， 并将 SVG 转换为字体文件：
 
